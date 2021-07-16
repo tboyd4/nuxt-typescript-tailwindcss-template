@@ -1,5 +1,13 @@
 # nuxt-tailwind-template
 
+## Using This Template
+
+TypeScript, TailWindCSS, PostCSS Already Configured.
+
+```bash
+npx degit "tboyd4/nuxt-typescript-tailwindcss-template" app-name
+```
+
 ## Build Setup
 
 ```bash
